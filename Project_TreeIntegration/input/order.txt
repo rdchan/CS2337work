@@ -1,0 +1,2 @@
+| 3x^2  +2x+ 1 +x^3dx
+| cosx +sin2x -3sin5x+ 2cos8xdx

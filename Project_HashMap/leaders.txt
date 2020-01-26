@@ -1,0 +1,47 @@
+AWAY
+Cranky_Kong	1	0	0	1	0	0	0.000	0.000
+Diddy_Kong	2	0	0	0	0	0	0.000	0.000
+Dixie_Kong	2	0	0	0	0	0	0.000	0.000
+Donkey_Kong	2	1	0	1	0	0	0.500	0.500
+Ganon	3	1	0	1	0	0	0.333	0.333
+Goran	3	1	0	0	0	0	0.333	0.333
+King_K._Rool	1	0	0	1	0	0	0.000	0.000
+Link	2	1	0	0	0	0	0.500	0.500
+Zelda	2	1	0	0	0	0	0.500	0.500
+Zora	2	2	0	0	0	0	1.000	1.000
+
+HOME
+Bowser_Jr.	2	0	0	0	0	0	0.000	0.000
+Dry_Bones	1	0	0	0	0	0	0.000	0.000
+Iggy	2	1	0	0	0	0	0.500	0.500
+Larry	1	0	0	0	0	0	0.000	0.000
+Lemmy	2	0	0	2	0	0	0.000	0.000
+Ludwig	1	0	0	0	0	0	0.000	0.000
+Morton	1	0	0	0	0	0	0.000	0.000
+Roy	1	0	0	1	0	0	0.000	0.000
+Thwomp	0	0	1	0	0	0	0.000	1.000
+Wendy	2	0	0	2	0	0	0.000	0.000
+
+LEAGUE LEADERS
+BATTING AVERAGE
+1.000	Zora
+0.500	Donkey_Kong, Link, Zelda, Iggy
+
+ON-BASE PERCENTAGE
+1.000	Zora, Thwomp
+0.500	Donkey_Kong, Link, Zelda, Iggy
+
+HITS
+2	Zora
+1	Donkey_Kong, Ganon, Goran, Link, Zelda, Iggy
+
+WALKS
+1	Thwomp
+0	Cranky_Kong, Diddy_Kong, Dixie_Kong, Donkey_Kong, Ganon, Goran, King_K._Rool, Link, Zelda, Zora, Bowser_Jr., Dry_Bones, Iggy, Larry, Lemmy, Ludwig, Morton, Roy, Wendy
+
+STRIKEOUTS
+0	Diddy_Kong, Dixie_Kong, Goran, Link, Zelda, Zora, Bowser_Jr., Dry_Bones, Iggy, Larry, Ludwig, Morton, Thwomp
+
+HIT BY PITCH
+0	Cranky_Kong, Diddy_Kong, Dixie_Kong, Donkey_Kong, Ganon, Goran, King_K._Rool, Link, Zelda, Zora, Bowser_Jr., Dry_Bones, Iggy, Larry, Lemmy, Ludwig, Morton, Roy, Thwomp, Wendy
+

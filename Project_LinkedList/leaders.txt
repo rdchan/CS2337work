@@ -1,0 +1,35 @@
+DK	11	10	0	0	0	0	0.909	0.909
+link	34	15	4	12	0	0	0.441	0.500
+MaRiO	9	3	3	3	3	3	0.333	0.500
+Peach	10	3	4	1	0	4	0.300	0.389
+Pit	1	1	0	0	0	1	1.000	0.500
+Wario	31	2	0	26	5	0	0.065	0.194
+Zelda	0	0	0	0	0	10	0.000	0.000
+
+LEAGUE LEADERS
+BATTING AVERAGE
+1.000	Pit
+0.909	DK
+0.441	link
+
+ON-BASE PERCENTAGE
+0.909	DK
+0.500	link, MaRiO, Pit
+
+HITS
+15	link
+10	DK
+3	MaRiO, Peach
+
+WALKS
+4	link, Peach
+3	MaRiO
+
+STRIKEOUTS
+0	DK, Pit, Zelda
+
+HIT BY PITCH
+5	Wario
+3	MaRiO
+0	DK, link, Peach, Pit, Zelda
+

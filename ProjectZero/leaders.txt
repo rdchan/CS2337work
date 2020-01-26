@@ -1,0 +1,247 @@
+Koopa
+BA: 0.800
+OB%: 0.577
+H: 8
+BB: 4
+K: 1
+HBP: 3
+
+Goomba
+BA: 0.900
+OB%: 0.714
+H: 9
+BB: 9
+K: 1
+HBP: 7
+
+Boo
+BA: 0.500
+OB%: 0.500
+H: 7
+BB: 4
+K: 1
+HBP: 0
+
+Ganondorf
+BA: 0.345
+OB%: 0.481
+H: 10
+BB: 13
+K: 6
+HBP: 2
+
+Peach
+BA: 0.300
+OB%: 0.389
+H: 3
+BB: 4
+K: 1
+HBP: 0
+
+Zelda
+BA: 0.000
+OB%: 0.000
+H: 0
+BB: 0
+K: 0
+HBP: 0
+
+DK
+BA: 0.909
+OB%: 0.909
+H: 10
+BB: 0
+K: 0
+HBP: 0
+
+Mario
+BA: 0.333
+OB%: 0.500
+H: 3
+BB: 3
+K: 3
+HBP: 3
+
+Link
+BA: 0.441
+OB%: 0.500
+H: 15
+BB: 4
+K: 12
+HBP: 0
+
+Pit
+BA: 1.000
+OB%: 0.500
+H: 1
+BB: 0
+K: 0
+HBP: 0
+
+Wario
+BA: 0.065
+OB%: 0.194
+H: 2
+BB: 0
+K: 26
+HBP: 5
+
+Lemmy
+BA: 0.250
+OB%: 0.424
+H: 6
+BB: 0
+K: 13
+HBP: 8
+
+Wendy
+BA: 0.100
+OB%: 0.531
+H: 1
+BB: 3
+K: 0
+HBP: 13
+
+Morton
+BA: 0.609
+OB%: 0.529
+H: 14
+BB: 4
+K: 4
+HBP: 0
+
+Larry
+BA: 0.385
+OB%: 0.714
+H: 5
+BB: 8
+K: 4
+HBP: 7
+
+Iggy
+BA: 0.429
+OB%: 0.394
+H: 9
+BB: 0
+K: 9
+HBP: 4
+
+Ludwig
+BA: 0.714
+OB%: 0.486
+H: 10
+BB: 3
+K: 4
+HBP: 5
+
+Roy
+BA: 0.167
+OB%: 0.354
+H: 5
+BB: 5
+K: 14
+HBP: 7
+
+Toad
+BA: 0.000
+OB%: 0.909
+H: 0
+BB: 10
+K: 1
+HBP: 0
+
+Olimar
+BA: 0.357
+OB%: 0.621
+H: 5
+BB: 13
+K: 3
+HBP: 0
+
+Daisy
+BA: 0.533
+OB%: 0.478
+H: 8
+BB: 2
+K: 3
+HBP: 1
+
+Rosalina
+BA: 0.429
+OB%: 0.429
+H: 6
+BB: 2
+K: 3
+HBP: 1
+
+Samus
+BA: 0.450
+OB%: 0.483
+H: 9
+BB: 3
+K: 4
+HBP: 2
+
+Yoshi
+BA: 0.304
+OB%: 0.355
+H: 7
+BB: 2
+K: 7
+HBP: 2
+
+Kirby
+BA: 0.250
+OB%: 0.366
+H: 4
+BB: 10
+K: 10
+HBP: 1
+
+Toadette
+BA: 1.000
+OB%: 1.000
+H: 1
+BB: 0
+K: 0
+HBP: 0
+
+Luigi
+BA: 0.455
+OB%: 0.588
+H: 5
+BB: 4
+K: 2
+HBP: 1
+
+Bowser
+BA: 0.000
+OB%: 0.800
+H: 0
+BB: 0
+K: 0
+HBP: 20
+
+Waluigi
+BA: 0.000
+OB%: 0.000
+H: 0
+BB: 0
+K: 10
+HBP: 0
+
+Fox
+BA: 0.000
+OB%: 0.000
+H: 0
+BB: 0
+K: 0
+HBP: 0
+
+LEAGUE LEADERS
+BA: Pit, Toadette 1.000
+OB%: Toadette 1.000
+H: Link 15
+BB: Ganondorf, Olimar 13
+K: Zelda, DK, Pit, Wendy, Toadette, Bowser, Fox 0
+HBP: Bowser 20

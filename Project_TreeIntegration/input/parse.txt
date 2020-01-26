@@ -1,0 +1,5 @@
+| cos200x + cos30x -cos-5xdx
+| cosx +sin2x -3sin5x+ 2cos8xdx
+| 3x^2  +2x+ 1 +x^3dx
+| -x^2 +4x^3-2dx
+| x + 13 - 20x^8  dx
